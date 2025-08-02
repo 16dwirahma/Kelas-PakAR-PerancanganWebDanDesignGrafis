@@ -1,5 +1,9 @@
 # Keripikin Indonesia – Website Branding Keripik Pisang
 
+Nama : Dwi Rahmawwati
+Nim : 23110210059
+Prodi : Bisnis Digital 4C
+
 ## 📝 Deskripsi Proyek
 
 Website ini dibuat sebagai media branding untuk produk camilan Keripik Pisang, yang menyasar anak muda dengan gaya komunikasi yang santai, emosional, dan relatable. Proyek ini merupakan bagian dari tugas akhir mahasiswa Bisnis Digital, dengan fokus pada pengembangan website menggunakan WordPress dan strategi branding digital.
