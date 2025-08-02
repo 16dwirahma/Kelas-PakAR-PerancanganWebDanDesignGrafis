@@ -1,7 +1,7 @@
 # Keripikin Indonesia – Website Branding Keripik Pisang
 
-Nama : Dwi Rahmawwati
-Nim : 23110210059
+Nama : Dwi Rahmawati
+Nim : 23110310059
 Prodi : Bisnis Digital 4C
 
 ## 📝 Deskripsi Proyek
